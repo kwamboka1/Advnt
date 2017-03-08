@@ -1,0 +1,46 @@
+body{
+	
+	/*background-color: rgba(1,1,1,0.8);
+	/*background: rgba(0,0,0,0.7) url(http://i.imgur.com/IMiabf0.jpg) ;*/
+	/*width: 100px;*/
+}
+h4{
+	float: left;
+	margin-top: 10px;
+	color: white;
+}
+.wrapper{
+	background-image: url("../imgs/1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	max-width: 990px;
+	/*height: 1000px;*/
+	margin: 0 auto; 
+	/*background-color: rgba(1,1,1,0.8);*/
+}
+.pages{
+
+	width: 400px;
+	height: 500px;
+	float: left;
+	color: white;
+	clear: both;
+
+
+}
+.fom{
+	width: 400px;
+	height: 700px;
+	float: right;
+
+}
+
+/*.nav a { 
+font-size: 14px;
+padding: 15px;
+color: #000;
+text-decoration: none;
+float: right;
+}*/
+
